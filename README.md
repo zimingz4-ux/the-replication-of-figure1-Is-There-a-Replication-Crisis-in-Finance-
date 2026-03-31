@@ -1,4 +1,3 @@
-# the-replication-of-figure1-Is-There-a-Replication-Crisis-in-Finance-
 # Replication: Figure 1
 # Is There a Replication Crisis in Finance?
 
@@ -7,7 +6,7 @@ Put these files in /Data:
 - hml.csv
 - cmp.csv
 - market_returns.csv
-
+(Due to memory limitations, please download these data from the compressed package)
 Put these files in the root folder (same level as main.R):
 - Factor Details.xlsx
 - Country Classification.xlsx
